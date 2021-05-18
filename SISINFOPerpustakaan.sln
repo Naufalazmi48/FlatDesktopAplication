@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SISINFOPerpustakaan", "SISINFOPerpustakaan\SISINFOPerpustakaan.vbproj", "{B35CEB3D-5528-4FD0-86A1-CE66E8D066B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35CEB3D-5528-4FD0-86A1-CE66E8D066B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35CEB3D-5528-4FD0-86A1-CE66E8D066B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35CEB3D-5528-4FD0-86A1-CE66E8D066B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35CEB3D-5528-4FD0-86A1-CE66E8D066B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41DE0B01-6218-4755-A18E-6F55A99CC294}
+	EndGlobalSection
+EndGlobal

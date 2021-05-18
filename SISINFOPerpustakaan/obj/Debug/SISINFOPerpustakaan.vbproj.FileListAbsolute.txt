@@ -1,0 +1,12 @@
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.MenuUtama.resources
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.vbproj.GenerateResource.cache
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\bin\Debug\SISINFOPerpustakaan.exe.config
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\bin\Debug\SISINFOPerpustakaan.exe
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\bin\Debug\SISINFOPerpustakaan.pdb
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\bin\Debug\SISINFOPerpustakaan.xml
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.Resources.resources
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.vbproj.CoreCompileInputs.cache
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.exe
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.xml
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.pdb
+C:\Users\MATRIX COMPUTER\source\repos\SISINFOPerpustakaan\SISINFOPerpustakaan\obj\Debug\SISINFOPerpustakaan.vbprojAssemblyReference.cache
